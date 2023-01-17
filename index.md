@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Aleksander Lucy is an engineer with a passion for history. His area of expertise is mechanical engineering, with an emphasis digital fabrication and a liberal arts skillset."
+excerpt: "Aleksander Lucy is an engineer with a passion for history. His area of expertise is mechanical engineering, with an emphasis in digital fabrication and a liberal arts skillset."
 feature_row:
   - image_path: assets/img/pump1.jpg
     alt: "Syringe Pump"
