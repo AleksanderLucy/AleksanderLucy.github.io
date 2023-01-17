@@ -1,9 +1,8 @@
 ---
 
 title: "About Aleksander Lucy"
-
 ---
-### Currently seeking employment in the engineering field.
+#### Currently seeking employment in the engineering field.
 
 ## Education
 
