@@ -14,8 +14,8 @@ feature_row:
     alt: "Syringe Pump"
     title: "Custom Syringe Pump"
     excerpt: "Built to deliver precise medication flows."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "Security Device and Code"
+  - image_path: assets/img/discordsecurity.jpeg
+    alt: "Security Device Electronics"
     title: "Discord Security Bot & Device"
     excerpt: "Physical and digital security implementation."
   - image_path: assets/img/lams.jpg
