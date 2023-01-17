@@ -11,13 +11,13 @@ header:
 excerpt: "Aleksander Lucy is an engineer with a passion for history. His area of expertise is mechanical engineering, with an emphasis digital fabrication and a liberal arts skillset."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    alt: "Syringe Pump"
+    title: "Custom Syringe Pump"
+    excerpt: "Built to deliver precise medication flows."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "Security Device and Code"
     title: "Discord Security Bot & Device"
-    excerpt: "Physical and digital security implementation"
+    excerpt: "Physical and digital security implementation."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     alt: "Boat Side View"
     title: "Autonomous Water Vessel"
