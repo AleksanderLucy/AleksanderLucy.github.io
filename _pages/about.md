@@ -1,12 +1,12 @@
 ---
 
 title: "About Aleksander Lucy"
-
+Currently seeking employment in the engineering field.
 ---
 
 ## Education
 
-Aleksander prides himself on a well rounded education with experience in mechanical engineering, addivitve manufacturing, and history from a liberal arts university like Vanderbilt. He is currently seeking employment in the engineering field.
+Aleksander prides himself on a well rounded education with experience in mechanical engineering, addivitve manufacturing, and history from a liberal arts university like Vanderbilt.
 
 * Vanderbilt University
   * BS Mechanical Engineering
