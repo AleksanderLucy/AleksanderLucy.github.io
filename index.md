@@ -15,12 +15,13 @@ feature_row:
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    alt: "Security Device and Code"
+    title: "Discord Security Bot & Device"
+    excerpt: "Physical and digital security implementation"
   - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    alt: "Boat Side View"
+    title: "Autonomous Water Vessel"
+    excerpt: "Boat with vectored thrust control and telemetry."
 ---
 
 {% include feature_row %}
