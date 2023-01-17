@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Aleksander Lucy is an engineer with a passion for history. His area of expertise is mechanical engineering, with an emphasis in digital fabrication and a liberal arts skillset."
 feature_row:
-  - image_path: assets/img/pump1.jpg
+  - image_path: assets/img/pump1.jpeg
     alt: "Syringe Pump"
     title: "Custom Syringe Pump"
     excerpt: "Built to deliver precise medication flows."
@@ -18,7 +18,7 @@ feature_row:
     alt: "Security Device Electronics"
     title: "Discord Security Bot & Device"
     excerpt: "Physical and digital security implementation."
-  - image_path: assets/img/lams.jpg
+  - image_path: assets/img/lams.jpeg
     alt: "Submersible Side View"
     title: "Autonomous Submersible"
     excerpt: "Vessel with vectored thrust control and telemetry."
