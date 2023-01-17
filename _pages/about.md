@@ -40,7 +40,7 @@ Aleksander has experience with a number off different digital tools used in the 
 * Fusion 360 / Creo / SolidWorks
 * Java / Python / Arduino
 
-Aleksander also has experience with several computer controlled (CNC) fabrication tools. Aleksander has experience with the following additive manufacturing technologies:
+Aleksander also has utilized several computer controlled (CNC) fabrication tools. Aleksander has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 
