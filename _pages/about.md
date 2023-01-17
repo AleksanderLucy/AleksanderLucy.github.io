@@ -1,31 +1,26 @@
 ---
 
-title: "About David Florian"
+title: "About Aleksander Lucy"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Aleksander prides himself on a well rounded education with experience in mechanical engineering, addivitve manufacturing, and history from a liberal arts university like Vanderbilt.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Mechanical Engineering
+    * Minor Digital Fabrication
+    * Minor History
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Aleksander can operate a number of different computer aided design (CAD) softwares to create 3D models and assemblies. Aleksander also has experience with several computer controlled (CNC) fabrication tools. Aleksander has experience with the following manufacturing technologies:
 
+* Fusion 360 / Creo / SolidWorks
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Laser Cutter / Water Jet
 
-## Press 
+## Awards and Service
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+Aleksander has had the oppurtunity to exersize leadership through the pursuit of earning the Eagle Scout award from the Boy Scouts of America.
