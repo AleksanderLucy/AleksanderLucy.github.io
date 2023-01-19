@@ -6,18 +6,22 @@ header:
   teaser: /assets/img/pump1.jpeg
 gallery:
   - url: /assets/img/pump_render1.png
-    image_path: assets/img/Cyber-Scooter-1.jpg
+    image_path: /assets/img/pump_render1.png
     alt: "CAD Render 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/pump2.jpeg
+    image_path: assets/img/pump2.jpeg
     alt: "Build View 2"
   - url: /assets/img/pump_render2.png
-    image_path: assets/img/Cyber-Scooter-3.jpg
+    image_path: /assets/img/pump_render2.png
     alt: "CAD Render 2"
 ---
 
 # CAD Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# 
+# Operation Code
+
 
 # Operating Instructions
 
