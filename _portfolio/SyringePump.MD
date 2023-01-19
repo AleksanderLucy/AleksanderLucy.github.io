@@ -32,5 +32,20 @@ The only code aforemantioned that the user needs to modify:
 float flow_rate = 5; //mL/min
 bool is_twenty = false;
 ```
+# Parts
+
+## Off the Shelf
+Letter | Digit | Character
+------ | ------|----------
+a      | 4     | $
+       | 365   | (
+b      |       | ^
+
+## 3D Printed
+Letter | Digit | Character
+------ | ------|----------
+a      | 4     | $
+       | 365   | (
+b      |       | ^
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
