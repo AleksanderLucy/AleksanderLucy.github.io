@@ -19,7 +19,6 @@ gallery:
 # CAD Model
 <iframe src="https://a360.co/3QIlW1A?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# 
 # Operation Code
 
 
