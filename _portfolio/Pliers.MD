@@ -2,22 +2,22 @@
 title: "Multimaterial Pliers"
 excerpt: "Print-in-place pliers made from PLA and TPU"
 header:
-  image: /assets/img/pump1.jpeg
-  teaser: /assets/img/pump1.jpeg
+  image: /assets/img/plier-banner.png
+  teaser: /assets/img/plier-banner.png
 gallery:
-  - url: /assets/img/pump_render1.png
-    image_path: /assets/img/pump_render1.png
+  - url: /assets/img/plierv1.jpg
+    image_path: /assets/img/plierv1.jpg
     alt: "CAD Render 1"
-  - url: /assets/img/pump2.jpeg
-    image_path: assets/img/pump2.jpeg
+  - url: /assets/img/plierv2.jpg
+    image_path: assets/img/plierv2.jpg
     alt: "Build View 2"
-  - url: /assets/img/pump_render2.png
-    image_path: /assets/img/pump_render2.png
+  - url: /assets/img/plierv3.jpg
+    image_path: /assets/img/plierv3.jpg
     alt: "CAD Render 2"
 ---
 
 # CAD Model
-<iframe src="https://a360.co/3QIlW1A?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4339a4635e84757e84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # About
 
