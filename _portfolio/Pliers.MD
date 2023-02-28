@@ -29,6 +29,7 @@ In this project, a pair of pliers that could be printed in place, and actuated w
 
 General:
 60℃ bed temp, 25 mm/s max speed, 15 mm/s retraction speed
+
 Filament Temperatures:
 PLA extruder: 215℃ ; TPU-95A extruder: 240℃
 
