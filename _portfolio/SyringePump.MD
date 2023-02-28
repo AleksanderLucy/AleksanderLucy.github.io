@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "This custom syringe pump can deliver precise flows _"
+excerpt: "Custom syringe pump delivering precise flows at any given flow rate"
 header:
   image: /assets/img/pump1.jpeg
   teaser: /assets/img/pump1.jpeg
@@ -42,8 +42,8 @@ a      | 4     | $
 b      |       | ^
 
 ## 3D Printed
-Letter | Digit | Character
------- | ------|----------
+Component | Material
+--------- | --------
 a      | 4     | $
        | 365   | (
 b      |       | ^

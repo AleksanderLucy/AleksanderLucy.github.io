@@ -1,6 +1,6 @@
 ---
-title: "Syringe Pump"
-excerpt: "This custom syringe pump can deliver precise flows _"
+title: "Multimaterial Pliers"
+excerpt: "Print-in-place pliers made from PLA and TPU"
 header:
   image: /assets/img/pump1.jpeg
   teaser: /assets/img/pump1.jpeg
