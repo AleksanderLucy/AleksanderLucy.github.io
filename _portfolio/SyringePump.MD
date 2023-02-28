@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "Custom syringe pump delivering precise flows at any given flow rate"
 header:
-  image: /assets/img/pump1.jpeg
-  teaser: /assets/img/pump1.jpeg
+  image: /assets/img/pump3.png
+  teaser: /assets/img/pump3.png
 gallery:
   - url: /assets/img/pump_render1.png
     image_path: /assets/img/pump_render1.png
