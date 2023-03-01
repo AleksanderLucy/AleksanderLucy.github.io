@@ -35,17 +35,23 @@ bool is_twenty = false;
 # Parts
 
 ## Off the Shelf
-Letter | Digit | Character
------- | ------|----------
-a      | 4     | $
-       | 365   | (
-b      |       | ^
+| Component        | Supplier |
+|------------------|----------|
+| Stepper Motor    |          |
+| Linear Rod       |          |
+| Lead Screw       |          |
+| Flexible Coupler |          |
+| Momentary Button |          |
+| Arduino          |          |
+| Breadboard       |          |
+| Power Supply     |          |
 
 ## 3D Printed
-| Component | Material |
-|-----------|----------|
-| a         | 4        |
-|           | 365      |
-| b         |          |
+| Component      | Material  |
+|----------------|-----------|
+| Box            | ABS       |
+| Box Lid        | ABS       |
+| Syringe Holder | ABS       |
+| Plunger Holder | ABS       |
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
