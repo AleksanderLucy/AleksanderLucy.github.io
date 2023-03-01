@@ -13,7 +13,7 @@ Aleksander prides himself on a well rounded education with experience in mechani
     * Minor Digital Fabrication
     * Minor History
 
-# Work Experience
+## Work Experience
 
 Aleksander has experiance working in a variety of capacities, some pertaining to enginerring, some not. This provides an interdisciplinary skill set encompassing both hard and soft skills.
 
