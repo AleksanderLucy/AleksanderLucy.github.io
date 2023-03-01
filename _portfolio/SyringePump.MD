@@ -42,10 +42,10 @@ a      | 4     | $
 b      |       | ^
 
 ## 3D Printed
-Component | Material
---------- | --------
-a      | 4     | $
-       | 365   | (
-b      |       | ^
+| Component | Material |
+|-----------|----------|
+| a         | 4        |
+|           | 365      |
+| b         |          |
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
