@@ -27,6 +27,8 @@ In this project, a pair of pliers that could be printed in place and actuated, w
 
 ## Print Settings
 
+Since this is a print using multiple materials, there are some settings that can be common across the printer and some that will need to be specific to each extruder based on the individual material properties.
+
 ### General:
 60℃ bed temp, 25 mm/s max speed, 15 mm/s retraction speed
 
