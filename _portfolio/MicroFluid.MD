@@ -2,8 +2,8 @@
 title: "Microfluidic Devices"
 excerpt: "Microfluidic device for homogenous mixing"
 header:
-  image: /assets/img/plier-banner.png
-  teaser: /assets/img/plier-banner.png
+  image: /assets/img/microfluid1.png
+  teaser: /assets/img/microfluid1.png
 gallery:
   - url: /assets/img/plierv1.jpg
     image_path: /assets/img/plierv1.jpg
