@@ -1,6 +1,6 @@
 ---
-title: "Multi-material Pliers"
-excerpt: "Print-in-place pliers made from PLA and TPU"
+title: "Microfluidic Devices"
+excerpt: "Microfluidic device for homogenous mixing"
 header:
   image: /assets/img/plier-banner.png
   teaser: /assets/img/plier-banner.png
