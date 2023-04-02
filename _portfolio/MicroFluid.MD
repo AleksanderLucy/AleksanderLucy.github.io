@@ -32,6 +32,6 @@ This project sought to implement additive manufacturing techniques to create the
 * Minimum Z Resolution: 25 μm
 * Build volume: (145 × 145 × 185) mm
 
-Overall, with this design and the appropriate selection of a technique to manufacture it, the device was able to be designed, printed, and cask successfully with a working product that can be seen below:
+Overall, with this design and the appropriate selection of a technique to manufacture it, the device was able to be designed, printed, and cast successfully with a working product that can be seen below:
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
