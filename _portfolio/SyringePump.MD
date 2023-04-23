@@ -25,7 +25,7 @@ The interface system should be intuitive, and the controls were designed with th
 
 ## Operation Code
 
-The only code aforemantioned that the user needs to modify:
+The aforemantioned code that is the only part the user needs to modify:
 ```c++
 // GLobal Vars
 
