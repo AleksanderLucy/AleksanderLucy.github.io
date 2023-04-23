@@ -32,26 +32,5 @@ The only code aforemantioned that the user needs to modify:
 float flow_rate = 5; //mL/min
 bool is_twenty = false;
 ```
-## Parts
-
-### Off the Shelf
-| Component        | Supplier |
-|------------------|----------|
-| Stepper Motor    |          |
-| Linear Rod       |          |
-| Lead Screw       |          |
-| Flexible Coupler |          |
-| Momentary Button |          |
-| Arduino          |          |
-| Breadboard       |          |
-| Power Supply     |          |
-
-### 3D Printed
-| Component      | Material  |
-|----------------|-----------|
-| Box            | ABS       |
-| Box Lid        | ABS       |
-| Syringe Holder | ABS       |
-| Plunger Holder | ABS       |
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
