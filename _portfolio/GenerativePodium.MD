@@ -2,8 +2,8 @@
 title: "Generative Design Podium"
 excerpt: "Using generative design to optimize a podium"
 header:
-  image: /assets/img/microfluid1.png
-  teaser: /assets/img/microfluid1.png
+  image: /assets/img/Podium-Progress.jpg
+  teaser: /assets/img/Podium-Progress.jpg
 gallery:
   - url: /assets/img/Podium-Progress.jpg
     image_path: /assets/img/Podium-Progress.jpg
