@@ -8,8 +8,8 @@ gallery:
   - url: /assets/img/microfluid2.png
     image_path: /assets/img/microfluid2.png
     alt: "CAD Render 1"
-  - url: /assets/img/plierv2.jpg
-    image_path: assets/img/plierv2.jpg
+  - url: /assets/img/micro-device.jpg
+    image_path: assets/img/micro-device.jpg
     alt: "Build View 2"
   - url: /assets/img/plierv3.jpg
     image_path: /assets/img/plierv3.jpg
