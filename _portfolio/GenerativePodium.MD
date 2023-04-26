@@ -23,7 +23,7 @@ gallery:
 
 
 
-![Image](/assets/img/zigzag_diagram.jpg)
+![Image](/assets/img/Podium-Progress.jpg)
 
 As humanity moves forward, and particularly looks towards our future on this planet and off of it, two emerging technologies will become increasingly useful: large format 3D printing and generative design. As these technologies continue to get more flushed out, and see more and more industrial application they could even become a key part of our next steps in extra planetary exploration, particularly through planetary surface construction. But first, it would be due to explain what each of these technologies are.
 
