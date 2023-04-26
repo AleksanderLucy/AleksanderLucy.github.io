@@ -5,14 +5,14 @@ header:
   image: /assets/img/microfluid1.png
   teaser: /assets/img/microfluid1.png
 gallery:
-  - url: /assets/img/microfluid2.png
-    image_path: /assets/img/microfluid2.png
-    alt: "CAD Render 1"
   - url: /assets/img/micro-device.jpg
-    image_path: assets/img/micro-device.jpg
+    image_path: /assets/img/micro-device.jpg
+    alt: "CAD Render 1"
+  - url: /assets/img/microfluid2.png
+    image_path: assets/img/microfluid2.png
     alt: "Build View 2"
-  - url: /assets/img/plierv3.jpg
-    image_path: /assets/img/plierv3.jpg
+  - url: /assets/img/wet-device.png
+    image_path: /assets/img/wet-device.png
     alt: "CAD Render 2"
 ---
 
