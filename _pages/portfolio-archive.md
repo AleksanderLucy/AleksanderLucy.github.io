@@ -8,3 +8,9 @@ classes: wide
 ---
 
 My digital fabrication projects:
+
+---
+collection: portfolioSD
+entries_layout: grid
+classes: wide
+---
