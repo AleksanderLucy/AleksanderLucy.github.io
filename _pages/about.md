@@ -30,11 +30,9 @@ Aleksander has experiance working in a variety of capacities, some pertaining to
   * General custodian work to help prepare the middle school for the 2021-2022 school year.
   * Included stripping and cleaning floors, walls, carpet and tile.
 * Georgia Tech Research Institute (June 2019 - July 2019) _Intern_
-  * A team of 2 high school students tasked with programming a nutritional information tracking app.
-  * Utilized Java and the Android Development Studio.
+  * Worked with another Georgia Tech Summer Fellow on developing an effective nutritional tracking app in Java and the Android Development Studio.
 * Georgia Tech Research Institute (June 2017 - July 2017) _Intern_
-  * A team of 6 high school students underneath tasked with programming a drone to autonomously search for and land on a moving platform.
-  * Utilized C++ and ROS (Robotics Operating System).
+  * Worked with another Georgia Tech Summer Fellow on developing autonomous flight tracking and landing systems for a drone utilizing computer vision in C++ and ROS (Robotics Operating System)
 
 ## Technical Skills
 
