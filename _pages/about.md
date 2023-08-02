@@ -41,11 +41,16 @@ Aleksander has experiance working in a variety of capacities, some pertaining to
 Aleksander has experience with a number off different digital tools used in the engineering field. Aleksander can operate several different computer aided design (CAD) softwares to create 3D models and assemblies and code in several languages.
 
 * Fusion 360 / Creo / SolidWorks
-* Java / Python / Arduino
+* Java / Python / Arduino / Markdown / LaTeX
 
 Aleksander also has utilized several computer controlled (CNC) fabrication tools. Aleksander has experience with the following additive manufacturing technologies:
 
-* Fused Filament Fabrication (FFF)
+* 3D Printing: FFF, VPP, SLA
+
+Finally, Aleksander also has experiance with the following subtractive manufacturing techniques:
+
+* CNC Laser Cutting
+* CNC Water Jetting
 
 ## Awards and Service
 
