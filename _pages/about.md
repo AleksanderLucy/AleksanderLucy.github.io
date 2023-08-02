@@ -17,7 +17,7 @@ Aleksander prides himself on a well rounded education with experience in mechani
 
 Aleksander has experiance working in a variety of capacities, some pertaining to enginerring, some not. This provides an interdisciplinary skill set encompassing both hard and soft skills.
 
-* Decatur CoWorks (May 2023 - Present) _Product Launch Test Engineer_
+* TEKsystems / Amazon Robotics (May 2023 - Present) _Product Launch Test Engineer_
   * Responsible for chaperoning, data logging, and observing the Proteus autonomous robots while testing the first OSHA certified addition to the Amazon Robotics fleet among ground employees at MQY1. 
   * Triaged and troubleshooted the robots during implementation testing, including diagnostics on both hardware and software, as well as calibration.
 * Decatur CoWorks (May 2022 - August 2022) _Manager, Project Support Administrator_
