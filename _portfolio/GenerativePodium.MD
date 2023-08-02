@@ -25,6 +25,8 @@ gallery:
 
 ![Image](/assets/img/Podium-Progress.jpg)
 
+## Generative design explained; future outlook
+
 As humanity moves forward, and particularly looks towards our future on this planet and off of it, two emerging technologies will become increasingly useful: large format 3D printing and generative design. As these technologies continue to get more flushed out, and see more and more industrial application they could even become a key part of our next steps in extra planetary exploration, particularly through planetary surface construction. But first, it would be due to explain what each of these technologies are.
 
 Large format 3D printing is a natural extension of the 3D printing that we all know and love right now, scaling the capabilities of 3D printing for fabrication up, unlocking more potential. 3D printing in its smaller scale has already been able to open up so many opportunities for new development and creative expression that would not have been possible without it, so this effect will only compound as the physical size limitations slowly drop away and large format 3D printing becomes more and more viable. In particular, one distinct advantage of the emergence of large format 3D printing is the ability to directly print large scale products, as seen in this project with the print in place podium. Extrapolating this application of the technology further, direct printing on location will be particularly useful for the aforementioned planetary exploration, as traditional construction techniques may be difficult to impossible in such environments. Fully automated construction using large scale 3D printing could unlock the potential for planetary surface settlements efficiently and without as much danger to humans.
