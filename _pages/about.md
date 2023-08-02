@@ -21,8 +21,8 @@ Aleksander has experiance working in a variety of capacities, some pertaining to
   * Responsible for chaperoning, data logging, and observing the Proteus autonomous robots while testing the first OSHA certified addition to the Amazon Robotics fleet among ground employees at MQY1. 
   * Triaged and troubleshooted the robots during implementation testing, including diagnostics on both hardware and software, as well as calibration.
 * Decatur CoWorks (May 2022 - August 2022) _Manager, Project Support Administrator_
-  * Manager of the coworking space.
-  * Administrative assistant with property management projects and other business consultancy.
+  * Assistant on several property management projects, working across the board with the firm, landlords, attorneys, and property managers to execute acquisitions and other lease transactions.
+  * Provided business consulting to project leaders using the CoWorks space on barriers to entry, project budgeting, and optimal product design considerations.
 * Decatur CoWorks (June 2021 - January 2022) _Front Desk Staff_
   * Primarily opening and closing and processing business mail.
   * Other duties included customer support, general upkeep, and minor janitorial maintenance.
