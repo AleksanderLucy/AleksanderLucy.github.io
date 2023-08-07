@@ -30,6 +30,9 @@ gallery:
 
 * The syringe plunger moves via a Nema 17 stepper motor driving a 2mm pitch lead screw; The lead screw's rotation actuates the lead screw nut on it linearly, moving the 3D-printed plunger holder forwards and backwards. The addition of a linear rod and bearing maintains axial alignment of the compontents during these moves.
 
+
+* Syringes of both a 20 mL capacity and 5 mL capacity can be used and interchanged without fasteners. 
+
 ## Operating Instructions
 
 The interface system should be intuitive, and the controls were designed with this idea in mind. To set the flow rate - in mL per min - adjust the variable called flow_rate to the desired flow rate in the first line of the Arduino code under the //Global variables section. Next, set the variable is_twenty to true or false depending on whether the 20 ml syringe is being used. The black button on the side of the box controls the state of the syringe pump. If the latching button is pressed, the pump pauses. If the button is unlocked the pump resumes. When running, the syringe will move at the set rate until it is out of liquid and stops. An LED on the side of the enclosure serves as a visual reference for the syringe’s operational state: green - actively running, yellow - paused, red - out of liquid. Manual adjustments, if necessary, can be made using the white button to rotate the screw clockwise or the blue button to rotate the screw counterclockwise. Note that the pump must be paused or off to activate these manual rotation buttons.
