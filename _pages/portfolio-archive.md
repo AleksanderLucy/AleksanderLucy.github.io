@@ -1,16 +1,11 @@
 ---
 title: Portfolio
-layout: collection
+layout: posts
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
 ---
 
-My digital fabrication projects:
+My engineering and digital fabrication projects:
 
----
-collection: portfolioSD
-entries_layout: grid
-classes: wide
----
