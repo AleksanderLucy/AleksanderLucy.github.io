@@ -16,8 +16,19 @@ gallery:
     alt: "CAD Render 2"
 ---
 
+## Purpose
+
+* Syringe pumps are devices commonly used to administer fluids over a set period of time or at a set rate.
+  * They can be used for any number of applications but are most often seen in medicinal practice to administer medicine.
+* Motor driven syringe pumps operate on a fairly simple design, but many commerical products can be very expensive.
+  * This project sought to create an inexpensive version with off the shelf parts and additive manufacturing.
+
 ## CAD Model
 <iframe src="https://a360.co/3QIlW1A?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Design Features
+
+* The syringe plunger moves via a Nema 17 stepper motor driving a 2mm pitch lead screw; The lead screw's rotation actuates the lead screw nut on it linearly, moving the 3D-printed plunger holder forwards and backwards. The addition of a linear rod and bearing maintains axial alignment of the compontents during these moves.
 
 ## Operating Instructions
 
