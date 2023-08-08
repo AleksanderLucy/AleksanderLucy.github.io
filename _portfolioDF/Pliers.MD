@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Multi-material Pliers"
 excerpt: "Print-in-place pliers made from PLA and TPU"
 header:
