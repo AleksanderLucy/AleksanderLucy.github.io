@@ -15,7 +15,7 @@ title                    : "Aleksander Lucy"
 title_separator          : "-"
 subtitle                 : "Digital Portfolio"
 name                     : &name "Aleksander Lucy" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Engineer"
 url                      : https://aleksanderlucy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
