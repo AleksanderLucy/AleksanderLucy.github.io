@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Microfluidic Devices"
 excerpt: "Microfluidic device for homogenous mixing"
 header:
