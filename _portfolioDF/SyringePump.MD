@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Syringe Pump"
 excerpt: "Custom syringe pump delivering precise flows at any given flow rate"
 header:
