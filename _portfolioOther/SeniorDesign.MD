@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Low-cost Autonomous Modular Submersible"
 excerpt: "Make an adapatable submersible that's accessible"
 header:
