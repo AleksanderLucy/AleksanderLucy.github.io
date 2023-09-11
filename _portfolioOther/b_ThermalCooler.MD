@@ -20,7 +20,7 @@ gallery:
 ## Purpose
 
 * The purpose of this project was to design and prototype a thermoelectric-operated single-can beverage cooler. The device will hold a standard aluminum can and cool it down from room temperature.
-* The design of this was meant to emphasise everyday use and a low cost of production.
+* This design was meant to emphasise everyday use and a low cost of production.
 
 ## CAD Model
 <iframe src="https://a360.co/3QIlW1A?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
