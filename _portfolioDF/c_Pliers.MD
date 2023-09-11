@@ -33,7 +33,7 @@ gallery:
 
 * The design for these pliers went through three main iterations.
   * The initial version of the pliers used an x of TPU between the handles and the jaws to allow force transmission but proved too flimsy and directed the force poorly.
-  * The next version was a more aesthetic focused joint of diamonds which directed the force betetr but had internal collisions from the points of the diamonds.
+  * The next version was a more aesthetic focused joint of diamonds which directed the force better but had internal collisions from the points of the diamonds.
   * The final version was a 3x3 grid that was strong enough to be stable and directed the force properly to open and close the jaws.
 
 ### Print Settings
