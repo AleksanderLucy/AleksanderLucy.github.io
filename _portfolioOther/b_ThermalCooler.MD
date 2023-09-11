@@ -37,4 +37,6 @@ gallery:
   * The fan and the thermoelectric can be powered by a 9 V battery, conveniently stowed in the bottom section of the enclosure.
 * 
 
+## Efficacy
+
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
