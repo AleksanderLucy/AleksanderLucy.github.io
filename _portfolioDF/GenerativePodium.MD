@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Generative Design Podium"
 excerpt: "Using generative design to optimize a podium"
 header:
