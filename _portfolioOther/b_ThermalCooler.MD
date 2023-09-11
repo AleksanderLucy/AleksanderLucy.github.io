@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Phone Case"
-excerpt: "Custom phone case made with flexible TPU filament"
+title: "Thermoelectric Cooler"
+excerpt: "Custom can cooler powered by thermoelectrics"
 header:
   image: /assets/img/pump3.png
   teaser: /assets/img/pump3.png
@@ -19,19 +19,16 @@ gallery:
 
 ## Purpose
 
-* Phone cases are an important part of our daily lives, protecting one of the most valuble objects we carry with us every day.
-  * The design of this everyday device can have suprising intricacies to keep buttons usable, add design elements and most importantly, protect your phone.
-* Using additive manufacturing, something like a phone case can be designed to fit your custom aesthetic and protect your phone with top of the line materials at the reduced cost of doing it yourself.
+* The purpose of this project was to design and prototype a thermoelectric-operated single-can beverage cooler. The device will hold a standard aluminum can and cool it down from room temperature.
+* The design of this was meant to emphasise everyday use and a low cost of production.
 
 ## CAD Model
 <iframe src="https://a360.co/3QIlW1A?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Design Features
 
-* The material chosen for this case was the first concern since it does the protecting.
-  * TPU 95a is a filament that can set and hold its shape with the ridgidity neccessary to grip the phone while having the felxibility to be easy to pull on and off.
-  * This quality allows the case to absorb shocks as well preventing damage on accidental drops.
-* To add a touch of personal flavor my case has the shape of the state of Georgia in counter-relief.
-* The case also features funtional aspects like cut outs for the speakers charger ports and integrated buttons to operate the volume rocker and power button.
+* This design sought to incorporate easily available, off-the-shelf parts with a product that already exists to keep a drink cool: the coozie. As such, the structure of the device is focused on easily fitting with the coozie form factor and will match its size to be mounted directly underneath.
+* It features a three-tiered stack where the top is directly glued to the bottom of the coozie, the middle provides support for the heat transfer system, and the bottom will house the battery to operate it.
+* 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
