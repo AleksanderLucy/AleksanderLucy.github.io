@@ -62,4 +62,7 @@ As with any machine, there are operating limitations that must be accounted for 
 
 These are the operational limits as dispensing any faster would be inaccurate and could deliver the incorrect flow rate. Additionally, since the syringe pump is micro-stepping, the overall max flow rate gets slower as each rotation of the motor now contains 3200 steps instead of 200.
 
+## Diagrams and Drawings
+
+
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
