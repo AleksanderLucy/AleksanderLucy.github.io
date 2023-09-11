@@ -29,10 +29,11 @@ gallery:
 
 ## Design Features
 
-* The syringe plunger moves via a Nema 17 stepper motor driving a 2mm pitch lead screw; The lead screw's rotation actuates the lead screw nut on it linearly, moving the 3D-printed plunger holder forwards and backwards. The addition of a linear rod and bearing maintains axial alignment of the compontents during these moves.
-
-
+* The syringe plunger moves via a Nema 17 stepper motor driving a 2mm pitch lead screw; The lead screw's rotation actuates the lead screw nut on it linearly, moving the 3D-printed plunger holder forwards and backwards. 
+  * The addition of a linear rod and bearing maintains axial alignment of the compontents during these moves.
 * Syringes of both a 20 mL capacity and 5 mL capacity can be used and interchanged without fasteners. 
+* The electronics are housed in a specially designed box. This is a fully enclosed box to contain all of the electronics and keep them free of any possible liquid intrusion or shock from touching. 
+  * However, it features a removable lid in order to keep access easy and side slits for ventilation.
 
 ## Operating Instructions
 
