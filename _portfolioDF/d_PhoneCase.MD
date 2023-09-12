@@ -6,14 +6,14 @@ header:
   image: /assets/img/pump3.png
   teaser: /assets/img/pump3.png
 gallery:
-  - url: /assets/img/pump_render1.png
-    image_path: /assets/img/pump_render1.png
+  - url: /assets/img/phoneIterations1.jpg
+    image_path: /assets/img/phoneIterations1.jpg
     alt: "CAD Render 1"
   - url: /assets/img/pump2.jpeg
     image_path: assets/img/pump2.jpeg
     alt: "Build View 2"
-  - url: /assets/img/pump_render2.png
-    image_path: /assets/img/pump_render2.png
+  - url: /assets/img/phoneIterations2.jpg
+    image_path: /assets/img/phoneIterations2.jpg
     alt: "CAD Render 2"
 ---
 
