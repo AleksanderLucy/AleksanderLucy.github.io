@@ -8,13 +8,13 @@ header:
 gallery:
   - url: /assets/img/phoneIterations1.jpg
     image_path: /assets/img/phoneIterations1.jpg
-    alt: "CAD Render 1"
+    alt: "Iterations of interior design"
   - url: /assets/img/pump2.jpeg
     image_path: assets/img/pump2.jpeg
     alt: "Build View 2"
   - url: /assets/img/phoneIterations2.jpg
     image_path: /assets/img/phoneIterations2.jpg
-    alt: "CAD Render 2"
+    alt: "Iterations of exterior design"
 ---
 
 ## Purpose
