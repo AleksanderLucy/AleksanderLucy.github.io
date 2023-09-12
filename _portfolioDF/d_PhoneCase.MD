@@ -24,7 +24,7 @@ gallery:
 * Using additive manufacturing, something like a phone case can be designed to fit your custom aesthetic and protect your phone with top of the line materials at the reduced cost of doing it yourself.
 
 ## CAD Model
-<iframe src="https://a360.co/3QIlW1A?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt744.autodesk360.com/shares/public/SHd38bfQT1fb47330c99890a488a34b65208?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Design Features
 
