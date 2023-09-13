@@ -6,6 +6,24 @@ header:
   image: /assets/img/pump3.png
   teaser: /assets/img/pump3.png
 gallery:
+  - url: /assets/img/pump_wiringDiagram.jpg
+    image_path: /assets/img/pump_wiringDiagram.jpg
+    alt: "Wiring Diagram" 
+  - url: /assets/img/pump_box.jpg
+    image_path: /assets/img/pump_box.jpg
+    alt: "Electrical Box"
+  - url: /assets/img/pump_lid.jpg
+    image_path: /assets/img/pump_lid.jpg
+    alt: "Electrical Box Lid"
+  - url: /assets/img/pump_syringeHolder.jpg
+    image_path: /assets/img/pump_syringeHolder.jpg
+    alt: "Syringe Holder"
+  - url: /assets/img/pump_plungerPusher.jpg
+    image_path: /assets/img/pump_plungerPusher.jpg
+    alt: "Plunger Pusher Plate"
+  - url: /assets/img/pump_motorMount.jpg
+    image_path: /assets/img/pump_motorMount.jpg
+    alt: "Motor Mount Plate"
   - url: /assets/img/pump_render1.png
     image_path: /assets/img/pump_render1.png
     alt: "CAD Render 1"
@@ -63,6 +81,5 @@ As with any machine, there are operating limitations that must be accounted for 
 These are the operational limits as dispensing any faster would be inaccurate and could deliver the incorrect flow rate. Additionally, since the syringe pump is micro-stepping, the overall max flow rate gets slower as each rotation of the motor now contains 3200 steps instead of 200.
 
 ## Diagrams and Drawings
-
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
