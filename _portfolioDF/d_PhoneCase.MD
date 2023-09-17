@@ -9,8 +9,8 @@ gallery:
   - url: /assets/img/phoneIterations1.jpg
     image_path: /assets/img/phoneIterations1.jpg
     alt: "Iterations of interior design"
-  - url: /assets/img/pump2.jpeg
-    image_path: assets/img/pump2.jpeg
+  - url: /assets/img/phoneDimensions.jpg
+    image_path: assets/img/phoneDimensions.jpg
     alt: "Build View 2"
   - url: /assets/img/phoneIterations2.jpg
     image_path: /assets/img/phoneIterations2.jpg
