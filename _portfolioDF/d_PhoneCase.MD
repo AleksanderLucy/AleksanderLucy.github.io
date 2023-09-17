@@ -34,4 +34,8 @@ gallery:
 * To add a touch of personal flavor my case has the shape of the state of Georgia in counter-relief.
 * The case also features funtional aspects like cut outs for the speakers charger ports and integrated buttons to operate the volume rocker and power button.
 
+## Iterative Design
+
+As the phone case was designed, adjustestments were necessary to translate the virtual design to something functional on a real phone. This is where 3D printing shines, allowing quick changes in CAD to be tested in quick fabrications. The first case lacked buttons and other other functyional elements as it was quickly pushe dout just to test sizing. This is extremely useful if the phone in question does not have publicly availible dimensioned drawings. The next two iterations were purely focused on finetuning the placement and style of buttons.
+
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
