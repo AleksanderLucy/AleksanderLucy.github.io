@@ -3,8 +3,8 @@ layout: single
 title: "Phone Case"
 excerpt: "Custom phone case made with flexible TPU filament"
 header:
-  image: /assets/img/pump3.png
-  teaser: /assets/img/pump3.png
+  image: /assets/img/phoneIterations1.jpg
+  teaser: /assets/img/phoneIterations1.jpg
 gallery:
   - url: /assets/img/phoneIterations1.jpg
     image_path: /assets/img/phoneIterations1.jpg
