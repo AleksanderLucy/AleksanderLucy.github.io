@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Microfluidic Devices"
+title: "Microfluidic Mixing Device"
 excerpt: "Microfluidic device for homogenous mixing"
 header:
   image: /assets/img/microfluid1.png
