@@ -3,8 +3,8 @@ layout: single
 title: "Thermoelectric Cooler"
 excerpt: "Custom can cooler powered by thermoelectrics"
 header:
-  image: /assets/img/pump3.png
-  teaser: /assets/img/pump3.png
+  image: /assets/img/cooler1.jpg
+  teaser: /assets/img/cooler1.jpg
 gallery:
   - url: /assets/img/cooler1.jpg
     image_path: /assets/img/cooler1.jpg
@@ -37,7 +37,9 @@ gallery:
   * The other side of the thermoelectric will contact one of the heat sink fin arrays, with its fins pointed down. The other heat sink fin array will be attached to the second tier platform of the enclosure with its fins up, sandwiching the fan between the pair. 
   * This will allow the fan to blow downwards, sucking air through the upside-down fin array and blowing it out through the bottom fin array. 
   * The fan and the thermoelectric can be powered by a 9 V battery, conveniently stowed in the bottom section of the enclosure.
-* 
+* The 3d printed stack enclosure is made of FormLabs Black Resin which has a heat deflection temperature of 78 ℃ - well above expected operating temperatures for the thermoelectric.
+
+![Image](/assets/img/coolerClose.jpg)
 
 ## Efficacy
 
