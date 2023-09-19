@@ -29,7 +29,7 @@ gallery:
 
 * This design sought to incorporate easily available, off-the-shelf parts with a product that already exists to keep a drink cool: the coozie. As such, the structure of the device is focused on easily fitting with the coozie form factor and will match its size to be mounted directly underneath.
 * It features a three-tiered stack where the top is directly glued to the bottom of the coozie, the middle provides support for the heat transfer system, and the bottom will house the battery to operate it.
-![Image](/assets/img/Podium-Progress.jpg)
+![Image](/assets/img/heatStackDiag.jpg)
 * The heat transfer stack comprises five components: a copper disk, the thermoelectric, a 60mm fan, and two heat sink fin arrays. 
   * The metal disk will be used to replace the typical foam bottom of the coozie, providing a vector for conductive heat transfer away from the can into the thermoelectric which will be affixed to its underside. 
   * The other side of the thermoelectric will contact one of the heat sink fin arrays, with its fins pointed down. The other heat sink fin array will be attached to the second tier platform of the enclosure with its fins up, sandwiching the fan between the pair. 
