@@ -23,7 +23,7 @@ gallery:
 * This design was meant to emphasise everyday use and a low cost of production.
 
 ## CAD Model
-<iframe src="https://a360.co/3QIlW1A?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt744.autodesk360.com/shares/public/SHd38bfQT1fb47330c9942c27ec9049f9ea0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Design Features
 
