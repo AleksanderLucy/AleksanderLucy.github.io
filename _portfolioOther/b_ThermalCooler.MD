@@ -3,8 +3,8 @@ layout: single
 title: "Thermoelectric Cooler"
 excerpt: "Custom can cooler powered by thermoelectrics"
 header:
-  image: /assets/img/cooler1.jpg
-  teaser: /assets/img/cooler1.jpg
+  image: /assets/img/heatStackDiag.jpg
+  teaser: /assets/img/heatStackDiag.jpg
 gallery:
   - url: /assets/img/cooler1.jpg
     image_path: /assets/img/cooler1.jpg
