@@ -6,15 +6,15 @@ header:
   image: /assets/img/pump3.png
   teaser: /assets/img/pump3.png
 gallery:
-  - url: /assets/img/pump_render1.png
-    image_path: /assets/img/pump_render1.png
-    alt: "CAD Render 1"
-  - url: /assets/img/pump2.jpeg
-    image_path: assets/img/pump2.jpeg
-    alt: "Build View 2"
-  - url: /assets/img/pump_render2.png
-    image_path: /assets/img/pump_render2.png
-    alt: "CAD Render 2"
+  - url: /assets/img/cooler1.jpg
+    image_path: /assets/img/cooler1.jpg
+    alt: "Cooler View 1"
+  - url: /assets/img/cooler3.jpg
+    image_path: assets/img/cooler3.jpg
+    alt: "View Into the Cooler"
+  - url: /assets/img/cooler2.jpg
+    image_path: /assets/img/cooler2.jpg
+    alt: "Cooler View 2"
 ---
 
 ## Purpose
