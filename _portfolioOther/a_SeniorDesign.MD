@@ -22,7 +22,7 @@ This project aims to solve the high cost and limited capabilities of currently a
 * In the current marketplace, existing submersibles are expensive and require a highly trained operator, limiting their use. By utilizing cost-effective materials and innovative designs, the team aimed to create a submersible that is accessible to a wider range of users, including educational institutions and small businesses. 
 * FSDF
 * Furthermore, our modular design will allow users to easily customize and upgrade their submersibles to suit their specific needs. This will provide greater flexibility and functionality, enabling users to conduct a wider range of underwater tasks. 
-The application of submersibles spans across a variety of commercial, industrial, recreational, or research purposes, and we hope to create a product which can satisfy all these different types of needs. Some examples of applications we hope to be possible with our design include seafloor mapping, general exploration, hull inspection, underwater photography, and recovery of objects on the ocean floor. Overall, our goal is to create a submersible that is both affordable and versatile, making it a valuable tool for a variety of industries and applications.
+The application of submersibles spans across a variety of commercial, industrial, recreational, or research purposes, and we hopeD to create a product which can satisfy all these different types of needs. Some examples of further applications include seafloor mapping, general exploration, hull inspection, underwater photography, and recovery of objects on the ocean floor. Overall, our goal was to create a submersible that is both affordable and versatile, making it a valuable tool for a variety of industries and applications.
 
 ##
 
