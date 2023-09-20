@@ -35,7 +35,6 @@ The application of submersibles spans across a variety of commercial, industrial
 
 
 ## Full Report
-See the full report with further detail on various stage sof the projects development here:
-https://docs.google.com/document/d/1XhVAFPrUie5TPidDu7_s1wvo8pFGtkE8mvakaepP5a0/edit?usp=sharing
+See the full report with further detail on various stage sof the projects development [here](https://docs.google.com/document/d/1XhVAFPrUie5TPidDu7_s1wvo8pFGtkE8mvakaepP5a0/edit?usp=sharing
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
