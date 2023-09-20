@@ -2,7 +2,7 @@
 layout: single
 title: "Low-cost Autonomous Modular Submersible"
 excerpt: "Make an adapatable submersible that's accessible"
-header:   image: /assets/img/posterLAMS.jpg
+  header:   image: /assets/img/posterLAMS.jpg
   teaser: /assets/img/posterLAMS.jpg
 gallery:
   - url: /assets/img/Podium-Progress.jpg
