@@ -6,14 +6,14 @@ header:
   image: /assets/img/posterLAMS.jpg
   teaser: /assets/img/posterLAMS.jpg
 gallery:
-  - url: /assets/img/Podium-Progress.jpg
-    image_path: /assets/img/Podium-Progress.jpg
+  - url: /assets/img/testing_SD.jpg
+    image_path: /assets/img/testing_SD.jpg
     alt: "Podium being printed"
-  - url: /assets/img/plierv2.jpg
-    image_path: assets/img/plierv2.jpg
+  - url: /assets/img/vertical_fin_mount.jpg
+    image_path: assets/img/vertical_fin_mount.jpg
     alt: "Build View 2"
-  - url: /assets/img/plierv3.jpg
-    image_path: /assets/img/plierv3.jpg
+  - url: /assets/img/mid_stage_SD.jpg
+    image_path: /assets/img/mid_stage_SD.jpg
     alt: "CAD Render 2"
 ---
 
