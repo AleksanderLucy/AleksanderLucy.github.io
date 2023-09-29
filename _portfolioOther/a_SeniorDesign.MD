@@ -28,6 +28,7 @@ This project aims to solve the high cost and limited capabilities of currently a
 * Unlike aerial drones which have the benefit of operating in transparent fluid, submersibles operate in water which can have varying degress of visibility making manual operation more complicated. As such, **autonomous** operation expands the range and usevase of the submersible beyond what can bea easily seen from an operator.
 * Finally, our **modular** design will allow users to easily customize and upgrade their submersibles to suit their specific needs. This will provide greater **flexibility** and functionality, enabling users to conduct a wider range of underwater tasks. 
 
+
 The application of submersibles spans across a variety of commercial, industrial, recreational, or research purposes, and we hopeD to create a product which can satisfy all these different types of needs. Some examples of further applications include seafloor mapping, general exploration, hull inspection, underwater photography, and recovery of objects on the ocean floor. Overall, our goal was to create a submersible that is both affordable and versatile, making it a valuable tool for a variety of industries and applications.
 
 ##
